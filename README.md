@@ -56,19 +56,7 @@
 ```
 ---
 
-## 11. How does one create a 'li' element and append it to the 'ul' with the id 'todo-list'?
-
-```js
-//Your answer here
-```
----
-
-## 12. What 2 arguments does `addEventListener` take?
-
-> Your answer here
----
-
-## 13. How does one create a 'click' event listener for the element with the id 'submitButton'? Show how to do it with vanilla JS and jQuery.
+## 10. How does one create a 'li' element and append it to the 'ul' with the id 'todo-list'?
 
 ```js
 //Your answer here
